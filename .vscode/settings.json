@@ -1,0 +1,5 @@
+{
+  "prisma.pinToPrisma6": true,
+  "prisma.hidePrisma6Prompts": true,
+  "typescript.tsdk": "node_modules/typescript/lib"
+}
