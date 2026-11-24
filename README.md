@@ -996,8 +996,3 @@ Na raiz do projeto está o arquivo [`insomnia-collection.json`](./insomnia-colle
   "version": 1
 }
 ```
-# AV-
-# AV2
-# AV2
-# av3
-# av3
